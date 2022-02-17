@@ -3,13 +3,13 @@ This is a midterm assignment for Multimedia Authoring in Fanshawe College Canada
 
 I am going to work on this project to show how I utilize github and commands I learned so far.
 
-So that I can get a grade :)
+So that I can get a grade :grin:
 
 # Usage
 This project is for academic reference only
 
 # Roadmap
-Add html point of views of two pages, topics on Australia vs Canada.
+Add html point of views of two pages :thought_balloon:, topics on Australia:australia: vs Canada:canada:.
 
 Add pictures for each page
 
