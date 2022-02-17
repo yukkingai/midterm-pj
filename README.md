@@ -24,7 +24,7 @@ Thank you Tina provides asssitance for us during this project.
 
 Many thanks to my dummy account for completing this project (technically) lol
 
-![alt text]()
+![alt text](https://github.com/yukkingai/midterm-pj/blob/main/green-sq.gif)
 
 # MIT License
 MIT License
@@ -49,7 +49,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-![alt text]()
+![alt text](https://github.com/yukkingai/midterm-pj/blob/main/red-sq.gif)
 # Contact
 Follow me via fb: Yuki Ngai
 
